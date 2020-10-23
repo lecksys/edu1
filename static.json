@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "nanozombie"
+      "X-Author": "nanozombie",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
